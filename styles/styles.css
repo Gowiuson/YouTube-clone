@@ -280,16 +280,7 @@ header {
 .thumbnails:hover .play{
     visibility: visible;
 }
-/* video container */
-.video-container{
-    border: 1px solid red;
-    position: absolute;
-    top: 60%;
-    display: none !important;
-}
-.active{
-    display: block !important;
-}
+
 
 
 /* footer */
